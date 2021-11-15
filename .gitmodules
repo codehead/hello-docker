@@ -1,0 +1,3 @@
+[submodule "content"]
+	path = content
+	url = git@github.com:codehead/pagina-web-2.git
